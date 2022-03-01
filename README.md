@@ -1,8 +1,6 @@
 ### Olá, eu sou a Helena 👩‍💻
 
-- 📗 Estudando Desenvolvimento Web
-- 🔗 Linkedin: https://www.linkedin.com/in/helena-rodrigues-figueiredo-a32321ba/
-- 😄 Pronouns: ela/dela
+- 📗 Estudante de Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/helena-rodrigues-figueiredo">
