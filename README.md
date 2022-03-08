@@ -1,6 +1,6 @@
 ### Olá, eu sou a Helena 👩‍💻
 
-- 📗 Estudante de Desenvolvimento Web
+- 📗 Estudante de Desenvolvimento Web na Trybe
 
 <div align="center">
   <a href="https://github.com/helena-rodrigues-figueiredo">
