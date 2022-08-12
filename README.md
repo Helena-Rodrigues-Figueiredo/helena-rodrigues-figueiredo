@@ -1,13 +1,14 @@
 Bem vindo(a) 💜 Meu nome é Helena Figueiredo
 =========================================================================================================================================
 
-Desenvolvedora Front End (Estudando para ser Full Stack)
+Desenvolvedora Front End
 -------------------
 
+* 📚 Estudante de Desenvolvimento Web Full Stack na Trybe
 * 🌍  Moro em Belo Horizonte/MG - Brasil
 * 🖥️  Link para o meu portfólio [`https://helena-rodrigues-figueiredo.github.io/`](http://helena-rodrigues-figueiredo.github.io/)
 * ✉️  Você pode me contactar pelo meu email [`helena.asrodrigues@gmail.com`](mailto:helena.asrodrigues@gmail.com)
-* 🧠  No momento começando os estudos de Backend, com Docker e MySQL
+* 🧠  No momento estou começando os estudos em Backend, iniciando por Docker e MySQL
 
 <div align="center">
  <a href="http://www.github.com/Helena-Rodrigues-Figueiredo"><img src="https://github-readme-stats.vercel.app/api?username=Helena-Rodrigues-Figueiredo&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="Helena-Rodrigues-Figueiredo's GitHub stats" /></a>
