@@ -7,7 +7,7 @@ Desenvolvedora Front End
 * 📚 Estudante de Desenvolvimento Web Full Stack na Trybe
 * 🌍  Moro em Belo Horizonte/MG - Brasil
 * 🖥️  Link para o meu portfólio [`https://helena-rodrigues-figueiredo.github.io/`](http://helena-rodrigues-figueiredo.github.io/)
-* ✉️  Você pode me contactar pelo meu email [`helena.asrodrigues@gmail.com`](mailto:helena.asrodrigues@gmail.com)
+* ✉️  Você pode me contatar pelo meu email [`helena.asrodrigues@gmail.com`](mailto:helena.asrodrigues@gmail.com)
 * 🧠  No momento estou começando os estudos em Backend, iniciando por Docker e MySQL
 
 <div align="center">
