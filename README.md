@@ -1,7 +1,7 @@
 Bem vindo(a) 💜 Meu nome é Helena Figueiredo
 =========================================================================================================================================
 
-Desenvolvedora Front End
+Desenvolvedora Full Stack
 -------------------
 
 * 📚 Estudante de Desenvolvimento Web Full Stack na Trybe
