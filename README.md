@@ -96,18 +96,18 @@ Desenvolvedora full stack, apaixonada por tecnologia e em busca de novos desafio
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div align="center">
-  <a align="left" href="https://github.com/Helena-Rodrigues-Figueiredo/To-Do-List" title="To-Do-List"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=To-Do-List&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Helena-Rodrigues-Figueiredo/car-shop-project" title="Car Shop"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=car-shop-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Helena-Rodrigues-Figueiredo/To-Do-List" title="To-Do-List"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=To-Do-List&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Helena-Rodrigues-Figueiredo/car-shop-project" title="Car Shop"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=car-shop-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <div align="center">
-  <a align="left" href="https://github.com/Helena-Rodrigues-Figueiredo/trybetunes-project" title="Trybetunes"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=trybetunes-project&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Helena-Rodrigues-Figueiredo/Trivia-Game" title="Trivia Game"><img height="150" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trivia-Game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Helena-Rodrigues-Figueiredo/trybetunes-project" title="Trybetunes"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=trybetunes-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Helena-Rodrigues-Figueiredo/Trivia-Game" title="Trivia Game"><img height="150" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trivia-Game&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <div align="center">
-  <a align="left" href="https://github.com/Helena-Rodrigues-Figueiredo/Trybewallet" title="TrybeWallet"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trybewallet&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Helena-Rodrigues-Figueiredo/Online-Store" title="Online Store"><img height="150"  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Online-Store&theme=react&border_color=61dafb&border_radius=10"></a>
+  <ahref="https://github.com/Helena-Rodrigues-Figueiredo/Trybewallet" title="TrybeWallet"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trybewallet&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Helena-Rodrigues-Figueiredo/Online-Store" title="Online Store"><img height="150"  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Online-Store&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/>
 
