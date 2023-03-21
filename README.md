@@ -93,23 +93,6 @@ Desenvolvedora full stack, apaixonada por tecnologia e em busca de novos desafio
   
 </table>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div align="center" >
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/To-Do-List" title="To-Do-List"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=To-Do-List&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/car-shop-project" title="Car Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=car-shop-project&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/trybetunes-project" title="Trybetunes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=trybetunes-project&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/Trivia-Game" title="Trivia Game"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trivia-Game&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/Trybewallet" title="TrybeWallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Trybewallet&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Helena-Rodrigues-Figueiredo/Online-Store" title="Online Store"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Helena-Rodrigues-Figueiredo&repo=Online-Store&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/>
 
 ![Snake animation](https://github.com/helena-rodrigues-figueiredo/helena-rodrigues-figueiredo/blob/output/github-contribution-grid-snake.svg)
 
