@@ -11,14 +11,12 @@ Desenvolvedora full stack, apaixonada por tecnologia e em busca de novos desafio
 
 ### 🧐 Mais Sobre Mim:
 
-- 🔭 &nbsp; Buscando uma oportunidade como Desenvolvedora
-- 📚 &nbsp; Formada em Engenharia Civil e em transição de carreira
-- 🌍 &nbsp; Moro em Belo Horizonte/MG - Brasil
-- 🌱 &nbsp; No momento estou aprendendo um pouco de Python 
+- 🔭 &nbsp; Desenvolvedora Full Stack Jr na Sisloc Software
+- 📚 &nbsp; Formada em Desenvolvimento Web pela Trybe
+- 🌍 &nbsp; Moro em Belo Horizonte/MG - Brasil 
 - 🖥️ &nbsp; Link para o meu portfólio [`https://helena-figueiredo.surge.sh/`](http://helena-figueiredo.surge.sh/)
 -  ✉️ &nbsp; Você pode me contatar pelo meu email [`helena.asrodrigues@gmail.com`](mailto:helena.asrodrigues@gmail.com)
-- 🧠 &nbsp; Estou no último módulo do curso da Trybe - Ciência da Computação
-- 🎮 &nbsp; Nas horas livres gosto de assistir séries e jogar (qualquer tipo de jogos)
+- 🎮 &nbsp; Nas horas livres gosto de assistir séries conhecer restaurantes novos
 
 <br>
 
