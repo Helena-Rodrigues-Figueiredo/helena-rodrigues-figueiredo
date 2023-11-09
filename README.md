@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&background=86D6FF00&center=true&width=1000&height=70&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Helena+)](https://git.io/typing-svg)
 ===================================================================================================================================================
 
-Desenvolvedora full stack, apaixonada por tecnologia e em busca de novos desafios na área. Atualmente estou finalizando o curso de Desenvolvimento Web na Trybe.
+Desenvolvedora full stack, apaixonada por tecnologia.
 <br/>
 <div align="center"> <a href="https://www.instagram.com/rodrigueeshelena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helena-figueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
