@@ -90,6 +90,3 @@ Desenvolvedora full stack, apaixonada por tecnologia.
   
 </table>
 
-
-![Snake animation](https://github.com/helena-rodrigues-figueiredo/helena-rodrigues-figueiredo/blob/output/github-contribution-grid-snake.svg)
-
