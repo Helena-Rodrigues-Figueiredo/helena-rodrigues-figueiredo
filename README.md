@@ -16,7 +16,6 @@ Desenvolvedora full stack, apaixonada por tecnologia.
 - 🌍 &nbsp; Moro em Belo Horizonte/MG - Brasil 
 - 🖥️ &nbsp; Link para o meu portfólio [`https://helena-figueiredo.surge.sh/`](http://helena-figueiredo.surge.sh/)
 -  ✉️ &nbsp; Você pode me contatar pelo meu email [`helena.asrodrigues@gmail.com`](mailto:helena.asrodrigues@gmail.com)
-- 🎮 &nbsp; Nas horas livres gosto de assistir séries conhecer restaurantes novos
 
 <br>
 
